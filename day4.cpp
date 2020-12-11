@@ -1,3 +1,5 @@
+// Jack bought  400 hot dogs for the school picnic .if they were contained in package of 8 hot dogs.how many totoal packages did he buy? create a c++ program without using \ or %  operator
+
 #include<iostream>
 using namespace std;
 int main()
